@@ -1,0 +1,11 @@
+.carousel-container {
+	padding: 100px;
+	z-index: 1000;
+}
+.react-multi-carousel-item{
+    max-width: 360px;
+    min-width: 300px;
+    gap: 0px;
+    padding: 0px;
+}
+

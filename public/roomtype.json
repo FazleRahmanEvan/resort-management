@@ -1,0 +1,48 @@
+[
+    {
+        "id":1,
+        "image": "https://www.theresortmumbai.com/images/The_Resort_Mumbai_The_Resort_Mumbai_standard101.jpg",
+        "roomquality": "Deluxe Suit ",
+        "roomsize":"28sqm (302sqft)",
+        "roomprice":"27,000 /night",
+        "offer":"Every Winter Offer- Enjoy 25% Discount"
+        
+    },
+    {
+        "id":2,
+        "image": "https://familyvacationist.com/wp-content/uploads/2022/03/Guest-rooms-at-Disneys-Polynesian-Village-Resort-Photo-Kent-Phillips.jpg",
+        "roomquality": "Executive Suit",
+        "roomsize":"28sqm (302sqft)",
+        "roomprice":"27,000 /night",
+        "offer":"Every Winter Offer- Enjoy 25% Discount"
+        
+    },
+    {
+        "id":3,
+        "image": "https://assets.anantara.com/image/upload/q_auto,f_auto/media/minor/anantara/images/anantara-desaru-coast-resort-villas/the-resort/anantara_desaru_coast_homepage_944x510.jpg",
+        "roomquality": "Standard Suit",
+        "roomsize":"28sqm (302sqft)",
+        "roomprice":"27,000 /night",
+        "offer":"Every Winter Offer- Enjoy 25% Discount"
+        
+    },
+    {
+        "id":4,
+        "image": "https://cms-asset.ayana.com/996x560_Ocean_View_Suite1_df4a7f1a27.jpg",
+        "roomquality": "Deluxe Suit ",
+        "roomsize":"28sqm (302sqft)",
+        "roomprice":"27,000 /night",
+        "offer":"Every Winter Offer- Enjoy 25% Discount"
+        
+    },
+    {
+        "id":5,
+        "image": "https://www.bdbooking.com/upload/property/hotel/121820181840491675c19a1a1d23cb.jpg",
+        "roomquality": "Executive Suit ",
+        "roomsize":"28sqm (302sqft)",
+        "roomprice":"27,000 /night",
+        "offer":"Every Winter Offer- Enjoy 25% Discount"
+        
+    }
+    
+]

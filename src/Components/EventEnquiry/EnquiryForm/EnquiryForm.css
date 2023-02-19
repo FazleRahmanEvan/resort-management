@@ -1,0 +1,16 @@
+.eventwidth {
+    width: 768px;
+  
+}
+.eventheight{
+    height: 75px;
+}
+.cancelbutton{
+    
+    background-color: crimson;
+    width: 137px;
+    
+}
+.submitbutton{
+    width: 137px;
+}

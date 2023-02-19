@@ -1,0 +1,22 @@
+hr{
+    border: none;
+    border-top: 3px dotted rgb(202, 199, 199);
+    color: #fff;
+    background-color: #fff;
+    height: 0px;
+    width: 36%;
+    margin-top: 30px;
+    margin-left: 32%;
+   
+}
+h4 {
+    align-self: center;
+    background: #B29C51;
+    width: 36%; 
+    height: 1px;
+    margin-left: px;
+  }
+.sideline{
+    margin-left: 230px;
+ 
+}

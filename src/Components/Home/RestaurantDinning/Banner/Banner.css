@@ -1,0 +1,10 @@
+.carousel .thumb .img{
+  
+    height: 110px;
+ 
+}
+.carousel{
+   justify-content: center;
+   max-height: 720px;
+  
+}
