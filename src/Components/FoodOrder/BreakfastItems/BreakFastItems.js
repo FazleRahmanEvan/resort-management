@@ -16,7 +16,7 @@ const BreakFastItems = () => {
             <h2 class="font-medium text-3xl text-secondary mt-6 text-center">Double Patty Special</h2>
             <p className='mx-8 text-base text-justify-center text-primary font-medium mt-4'>Spinach and artichokes in a creamy cheese dip with warm tortilla chips.</p>
 .
-<AddButton></AddButton>
+           <AddButton></AddButton>
             </div>
             </div>
 
@@ -53,7 +53,7 @@ const BreakFastItems = () => {
 
 
             <div class="card cardwidth bg-base-100 shadow-xl mt-5">
-            <figure><img className='h-52' src="http://wallpaperstock.net/perfect-breakfast_wallpapers_45822_1920x1080.jpg" alt='' /></figure>
+            <figure><img className='h-52' src="https://www.healtheuropa.com/wp-content/uploads/2020/02/iStock-871602316.jpg" alt='' /></figure>
             <div class="">
             <h2 class="font-medium text-3xl text-secondary mt-6 text-center">Double Patty Special</h2>
             <p className='mx-8 text-base text-justify-center text-primary font-medium mt-4'>Spinach and artichokes in a creamy cheese dip with warm tortilla chips.</p>
